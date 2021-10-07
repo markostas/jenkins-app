@@ -23,9 +23,9 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1>hello</h1>
-        <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
-        <p>You are running PHP version <?= phpversion() ?></p>
+        <h1>FINAL PROJECT</h1>
+        <p>MY AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
+        <p>We are running PHP version <?= phpversion() ?></p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
     </section>
 
